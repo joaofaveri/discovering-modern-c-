@@ -15,18 +15,13 @@
   
   <h3 align="center">Discovering Modern C++</h3>
 
+  <p align="center">
+    My walk-through over the book "Discovering Modern C++", written by Peter Gottschling (Addison-Wesley - Second Edition). An intensive course for scientists, engineers and programmers
+  </p>
+
   <a href="https://www.pearson.com/us/higher-education/program/Gottschling-Discovering-Modern-C-2nd-Edition/PGM2775899.html">
     <img src="images/cover.jpg" alt="Discovering Modern C++" width="400" height="495">
   </a>
-
-  <p align="center">
-    My walk-through over the book "Discovering Modern C++", written by Peter Gottschling (Addison-Wesley - Second Edition). An intensive course for scientists, engineers and programmers
-    <br />
-    <br />
-    <a href="https://github.com/joaofaveri/discovering-modern-cpp/issues">Relatar um Bug</a>
-    ·
-    <a href="https://github.com/joaofaveri/discovering-modern-cpp/issues">Solicitar Feature</a>
-  </p>
 </div>
 
 ## Description
