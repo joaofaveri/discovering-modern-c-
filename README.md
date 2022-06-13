@@ -1,11 +1,10 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<p align="center">
+  <a href="https://twitter.com/jpaulo_faveri"><img src="https://img.shields.io/badge/-@jpaulo_faveri-282a36?style=flat-square&logo=twitter&logoColor=1DA1F2&link=https://twitter.com/jpaulo_faveri"></a>
+  <a href="https://www.linkedin.com/in/joaofaveri/"><img src="https://img.shields.io/badge/-joaofaveri-282a36?style=flat-square&logo=Linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/joaofaveri/"></a>
+  <a href="mailto:joao.faveri@gmail.com"><img src="https://img.shields.io/badge/-joao.faveri@gmail.com-282a36?style=flat-square&logo=Gmail&logoColor=EA4335&link=mailto:joao.faveri@gmail.com"></a>
+</p>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -13,8 +12,12 @@
   <a href="https://github.com/joaofaveri/discovering-modern-cpp">
     <img src="images/cpp.png" alt="Discovering Modern C++" width="80" height="80">
   </a>
+  
+  <h3 align="center">Discovering Modern C++</h3>
 
-<h3 align="center">Discovering Modern C++</h3>
+  <a href="https://www.pearson.com/us/higher-education/program/Gottschling-Discovering-Modern-C-2nd-Edition/PGM2775899.html">
+    <img src="images/cover.jpg" alt="Discovering Modern C++" width="400" height="495">
+  </a>
 
   <p align="center">
     My walk-through over the book "Discovering Modern C++", written by Peter Gottschling (Addison-Wesley - Second Edition). An intensive course for scientists, engineers and programmers
@@ -25,6 +28,14 @@
     <a href="https://github.com/joaofaveri/discovering-modern-cpp/issues">Solicitar Feature</a>
   </p>
 </div>
+
+## Description
+
+Peter Gottschling’s Discovering Modern C++, Second Edition is an intensive introduction that guides you smoothly to sophisticated approaches based on advanced features. Thoroughly updated for C++17 and C++20, this Second Edition introduces key concepts using examples from many technical problem domains, drawing on his extensive experience training professionals and teaching C++ to students of physics, math, and engineering.
+
+This book is designed to help students get started rapidly and then master increasingly robust features, from lambdas to expression templates. You’ll also learn how to take advantage of the powerful libraries available to C++ programmers: both the Standard Template Library (STL) and scientific libraries for arithmetic, linear algebra, differential equations, and graphs. In this Second Edition, Gottschling also presents thorough and expert coverage of multi-threading and variadic templates.
+
+Throughout, Gottschling demonstrates how to write clear and expressive software using object orientation, generics, metaprogramming, and procedural techniques. By the time you’re finished, you’ll have mastered all the abstractions you need to write C++ programs with exceptional quality and performance.
 
 ## Contributing
 
